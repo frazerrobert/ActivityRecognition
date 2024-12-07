@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this work in your research, please cite it as follows:"
+title: "DeepSense: Activity Recognition on Time-Series Data"
+authors:
+  - family-names: "Robert"
+    given-names: "Frazer"
+    email: "frobert@gmu.edu"
+  - family-names: "Jammula"
+    given-names: "Srini"
+    email: "sjammul3@gmu.edu"
+  - family-names: "Gottipati"
+    given-names: "Aditya"
+    email: "agottipa@gmu.edu"
+  - family-names: "Natarayan Gnanasekaran"
+    given-names: "Lokeshwaran"
+    email: "lnataray@gmu.edu"
+version: "1.0.0"
+date-released: "2024-12-06"
+url: "https://github.com/frazerrobert/ActivityRecognition"
+repository-code: "https://github.com/frazerrobert/ActivityRecognition"
+abstract: "This repository contains code and resources for activity recognition using DeepSense on time-series data from mobile and wearable sensors."
+keywords:
+  - Activity Recognition
+  - Time-Series Data
+  - DeepSense
+  - Machine Learning
+license: "MIT"
